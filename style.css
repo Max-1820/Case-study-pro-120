@@ -1,0 +1,25 @@
+#mobilenetlogo
+{
+    width: fit-content;
+    font-family: 'Roboto Mono', monospace;
+}
+#vs{
+ background-color: white;
+ border: 5px solid white;
+ font-family: 'Roboto Mono', monospace;
+ color: red;
+}
+#heading
+{
+background-color: white;
+color: red;
+font-family: 'Roboto Mono', monospace;
+}
+#goo{
+    width: 20%;
+}
+
+.image1{
+    background-color: grey;
+    border-radius: 20px;
+}
